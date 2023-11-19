@@ -1,0 +1,2 @@
+drivers/misc/mediatek/cam_log/cam_log.ko
+drivers/char/xlogchar.ko
